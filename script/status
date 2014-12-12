@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Reports on the status of the stack.
 set -e

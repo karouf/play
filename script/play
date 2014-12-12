@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # `play` is our main Play CLI. Think of this as the overseer: it knows about
 # all of the services in Play and can control them via a number of helper

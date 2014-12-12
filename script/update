@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Updates the existing Play to the current version. Currently just a simple
 # git pull (but may run migrations and assorted fun later).
