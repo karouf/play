@@ -199,7 +199,7 @@ else
   fail 'problem migrating data'
 fi
 
-info 'asset compliation'
+info 'asset compilation'
 if bundle exec rake assets:precompile >> /tmp/play-bootstrap 2>&1
 then
   success 'assets compiled'
