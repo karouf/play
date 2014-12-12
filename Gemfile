@@ -21,7 +21,7 @@ group :assets do
   gem 'sass-rails',     '~> 4.0.0'
   gem 'coffee-rails',   '~> 4.0.0'
   # lol what the fuck is compass doing
-  gem "compass-rails",  :github => "Compass/compass-rails"
+  gem "compass-rails",  :git => "https://github.com/Compass/compass-rails.git"
   gem 'uglifier',       '>= 1.3.0'
 end
 
